@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there 👋, my name is Paul.
+
+I'm always excited when I have those Eureka moments, that's why I'm a coding enthusiast. I love the concept that in just a blink of an eye, you can bring to life anything you can imagine and experience the rewarding rush of dopamine.
+
+Most of my energy is spent thinking about new strategies and ways to beat the market, or how to make my simultions faster. You know how it is to wait for simulation number 1 850 000 000 and CPU is all sweaty. Always pleasure.
+
+On GitHub, I typically spend my time "starring" code that I plan to use in the future, only to search for it again when I forget where I saved it. ;)
 
 <!--
 **CopyPasteJedi/CopyPasteJedi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
